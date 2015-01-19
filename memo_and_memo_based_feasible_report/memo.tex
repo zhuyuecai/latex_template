@@ -1,0 +1,62 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Memo
+% LaTeX Template
+% Version 1.0 (30/12/13)
+%
+% This template has been downloaded from:
+% http://www.LaTeXTemplates.com
+%
+% Original author:
+% Rob Oakes (http://www.oak-tree.us) with modifications by:
+% Vel (vel@latextemplates.com)
+%
+% License:
+% CC BY-NC-SA 3.0 (http://creativecommons.org/licenses/by-nc-sa/3.0/)
+%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[letterpaper,11pt]{texMemo} % Set the paper size (letterpaper, a4paper, etc) and font size (10pt, 11pt or 12pt)
+
+\usepackage{parskip} % Adds spacing between paragraphs
+\setlength{\parindent}{15pt} % Indent paragraphs
+
+%----------------------------------------------------------------------------------------
+%	MEMO INFORMATION
+%----------------------------------------------------------------------------------------
+
+\memoto{Peter} % Recipient(s)
+
+\memofrom{Yuecai} % Sender(s)
+
+\memosubject{Idea of Truck Factor Small Paper} % Memo subject
+
+\memodate{Monday, December 11, 2014} % Date, set to \today for automatically printing todays date
+
+%\logo{\includegraphics[width=0.3\textwidth]{logo.png}} % Institution logo at the top right of the memo, comment out this line for no logo
+
+%----------------------------------------------------------------------------------------
+
+\begin{document}
+
+\maketitle % Print the memo header information
+
+%----------------------------------------------------------------------------------------
+%	MEMO CONTENT
+%----------------------------------------------------------------------------------------
+\section{Introduction}
+Since we have done a lot of work on the Truck Factor, and have found some interesting observation related to Truck Factor, I think it is enough for a small paper. 
+\section{Research Questions}
+For the small paper, I propose the following research questions:
+\subsection{Can we speed up the Truck Factor algorithm?---Optimized Truck Factor with a stopping condition}
+In these research question, we can present and explain the Optimized Truck Factor algorithm, and discuss its limitation on time complexity.
+\subsection{can we speed up the Truck Factor algorithm with a trade off of losing accuracy?---Simplified Randomized Truck Factor}
+In these research question, we can present the Simplified Randomized Truck Factor. explain how to make the upper bound estimation, and show the result from Linux and Chrome. 
+\subsection{What it really means by the Truck Factor?---relation between Modularization and Vulnerability}
+In these research question, we can use a simplified model to explain that when a software team is high modularized, it will have a low Truck factor, otherwise, It depends on how the ownership distributes on the team, flat or skewed. a well modularized team will have a higher standard error on the sample file loss data, a skewed ownership distributing team will have a high std too. a flat ownership distributing team will have a low std and average file loss. Thus the randomized algorithm will reveal this fact. The data of Chrome and Linux confirms this. 
+
+\section{Conclusion}
+In the small paper, we contribute a stopping condition for the Truck Factor algorithm to speed it up. However it is still too slow for large project. Then we create a new algorithm to estimate the Truck Factor based on random sampling. We also discuss about the relation between project developer team modularization and project vulnerability based on the Truck Factor findings.
+
+%----------------------------------------------------------------------------------------
+
+\end{document}
