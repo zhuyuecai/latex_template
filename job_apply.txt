@@ -1,0 +1,47 @@
+As a machine learning engineer and data scientist in our team, I bring a unique combination of skills and expertise to leverage data-driven solutions. With a strong foundation in machine learning algorithms, statistical modelling, and data engineering, I excel at solving complex problems and optimizing business processes. I possess the technical prowess to design and implement machine learning models and data pipelines, as well as the analytical acumen to extract insights and drive data-informed strategies. My ability to work across disciplines and collaborate with cross-functional teams allows me to translate business objectives into actionable solutions.
+Key achievements:
+*One of the main data engineers and data scientists for the AI Robocall Detection application to detect fraudulent callers, the first AI solution in Canada.
+*Re-architect Bell's first production AI solution - A near-realtime SMS Spam Detection application. This work's major impact is removing a third-party AI application to reduce cost and offer a higher detection rate.
+*Develop the first dynamic graph-based ML model for voice network anomaly detection. 
+*Initiate, architect and lead the development of a universal anomaly detection solution for data quality monitoring.
+*Analyze different options for migrating the current data platform to the public clouds, including Databricks and Google Composer.
+*Automate the Gitlab onboarding process for public cloud projects.
+*Re-architect multiple Spark-based ETL data pipelines and automate their supporting workflows.
+
+
+
+• Statistic analysis for various research projects.
+• Introduce the concept of unit test for the project that develop an application to calculate the genetic score.
+• Published two papers as contributing authors.
+
+
+*
+*Extract information from raw data files to the database.
+*Data cleaning for further analysis.
+*Mathematical Model building.
+*Algorithm design.
+*Design and perform different kinds of simulations on demand.
+*Publish One paper as the first author and two papers as the second author.
+*
+*
+*
+*
+*
+*Extract information from raw test data and build up the database for the research project.
+*Perform simulation to evaluate different regression testing strategies.
+*Automate the process of synchronizing the research database with the application database.
+*
+*
+*
+*Analyze electricity equipment usage data.
+*Develop Excel applications for internal use.
+*Test the new algorithm of the new asset management system.
+*
+*
+*
+*
+*Analyze business data.
+*Draft business documents and reports.
+*Help develop marketing strategies.
+*Launch the International Transactions Online Declaration System as project manager.
+*Completed business research on 'Loans With Export Credit Insurance as a Pledge.
