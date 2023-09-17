@@ -10,11 +10,10 @@ Key achievements:
 
 
 
-• Statistic analysis for various research projects.
-• Introduce the concept of unit test for the project that develop an application to calculate the genetic score.
-• Published two papers as contributing authors.
 
-
+*Statistic Analysis for various research projects.
+*Publish two papers as contributing authors.
+*
 *
 *Extract information from raw data files to the database.
 *Data cleaning for further analysis.
